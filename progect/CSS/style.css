@@ -17,5 +17,117 @@
 
 .nav-link {
     margin-right: 25px;
-    color: black;
+    color: #33383F;
+    text-decoration: none;
+    font-size: 18px;
+    
 }
+
+.buttons{
+    display: flex;
+    align-items: center;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    padding: 8px 16px;
+    background-color: #fff;
+    border: none;
+    color:#595959;
+    font-size: 16px;
+    line-height: 24px;
+    }
+
+.button-primary {
+        background-color: #fdfdfd;
+        color: #0070A0;
+        
+    }
+
+.button-icon {
+    background-color: #0070A0;
+    color: #eff3f5;
+    
+
+}
+
+.button-text1{
+    letter-spacing: 0px;
+}
+
+
+.promo{
+    background: #FFFFFF url(../img/IMAGE.png) no-repeat top 80px right 0px;
+    padding-top: 50px;
+    margin-bottom: 60px;
+}
+
+
+.promo-title {
+    font-size: 63px;
+}
+
+
+.promo-text {
+    font-size: 35px;
+}
+
+.end-promo-text{
+display: flex;
+justify-content: center;
+}
+
+.nav-end{
+    display: flex;
+    justify-content: center;
+}
+
+
+.end-promo-text{
+    font-size: 35px;
+}
+
+
+.end-promo-link{
+    margin-right: 61px;
+    color: #33383F;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.cards{
+    display: flex;
+   padding-top: 100px;
+    
+    
+}
+
+
+.card1 {
+    background-color: #FAEA73;
+    
+    width: 500px;
+    height: 300px;
+
+    margin-right: 32px;
+}
+
+
+
+.card2 {
+    background-color: #CCEFF6;
+    margin-right: 32px;
+    width: 500px;
+    height: 300px;
+    
+}
+
+.card3 {
+    background-color: #F7CEDC;
+    margin-right: 32px;
+    width: 500px;
+    height: 300px;
+    
+}
+
