@@ -106,10 +106,8 @@ justify-content: center;
 
 .card1 {
     background-color: #FAEA73;
-    
     width: 500px;
     height: 300px;
-
     margin-right: 32px;
 }
 
@@ -131,3 +129,54 @@ justify-content: center;
     
 }
 
+
+.text2 {
+    padding-left: 39px;
+    padding-top: 32px;
+}
+
+.text1 {
+    padding-left: 39px;
+    padding-top: 32px;
+}
+
+.text3 {
+    padding-left: 39px;
+    padding-top: 32px;
+}
+
+.info-title{
+    padding-top: 150px;
+    font-size: 50px;
+}
+
+.tex1 {
+    display: flex;
+    
+}
+
+.tex2 {
+    display: flex;
+}
+
+.tex3 {
+    display: flex;
+    
+}
+
+.tex4 {
+    display: flex;
+    
+}
+
+.te{
+    margin-left: 50px;
+}
+
+.line {
+
+}
+
+.info1 {
+    display: flex;
+}
